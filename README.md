@@ -2,7 +2,7 @@
 - 👀 I’m interested in on the software domaines...
 - 🌱 I’m currently learning ...js 
 - 💞️ I’m looking to collaborate on mini-projects...
-- 📫 How to reach me ...email
+- 📫 How to reach me ...email. vinsbottt@gmail.com
 
 <!---
 SaMisUP/SaMisUP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
